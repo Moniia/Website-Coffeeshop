@@ -7,7 +7,7 @@ https://github.com/Moniia/Trick1-cube/assets/155805252/f62a6498-d9c9-4243-8f5e-1
 
 <br></br>
 
-🔗 [Demo Project](https://moniia.github.io/Trick1-cube/)
+🔗 [Demo Project](https://moniia.github.io/Website-Coffeeshop/)
 
 👩🏻‍💻 Developed by Mona Aminian
 
