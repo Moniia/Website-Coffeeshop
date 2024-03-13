@@ -1,0 +1,32 @@
+*,*::before, *::after{
+    margin: 0;padding: 0;box-sizing: border-box;
+}
+
+body{
+    font-family: "Unica One", sans-serif;
+    font-size: 100%;
+    font-weight: 200;
+    font-style: normal;
+}
+
+  
+main{
+    width: 100%;
+    // overflow-x: hidden;
+    li{
+        list-style-type: none;
+    }
+    a{
+        text-decoration: none;
+        color: inherit;
+    }
+    
+    header,footer,aside,section,article{
+        display: flex;
+    }
+    .row{
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+    }
+}
